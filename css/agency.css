@@ -1203,6 +1203,7 @@ ul{
 
 figure{
 	display: block;
+	margin-bottom: 8px;
 }
 
 figure img{
@@ -1211,7 +1212,7 @@ figure img{
 }
 
 figcaption{
-	background: #303131;
+	background: #a4a9c0; /*303131*/
 	padding: 10px;
 	margin-top: 0px;
 }
